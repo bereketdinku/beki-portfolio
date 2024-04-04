@@ -16,8 +16,7 @@ const page = () => {
         <div className="tablet:w-1/2">
           <div className="space-y-3 max-tablet:text-center flex flex-col">
             <p className="px-4 py-2 bg-peach-500 text-grey-600 w-max rounded tablet:w-max max-tablet:mx-auto ">
-              Welcome to the world of captivating web and mobile app
-              development!
+              Welcome to the world of captivating web and mobile app development
             </p>
             <h1 className="text-grey-700">I'm Bereket Dinku</h1>
             <p className="text-grey-600">

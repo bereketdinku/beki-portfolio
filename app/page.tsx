@@ -20,7 +20,7 @@ export default function Home() {
               Hello There
             </p>
             <h1 className="text-grey" data-aos="fade-down" data-aos-delay="100">
-              Bereket Dinku Welcome's you
+              Bereket Dinku Welcome you
             </h1>
             <p
               className="text-grwy-600"

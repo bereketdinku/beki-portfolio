@@ -51,8 +51,8 @@ const TestimonialSection = () => {
             loop={true}
           >
             {reviews.map((review, index) => (
-              <SwiperSlide>
-                <SingleReview review={review} key={index} />
+              <SwiperSlide key={index}>
+                <SingleReview review={review} />
               </SwiperSlide>
             ))}
           </Swiper>
