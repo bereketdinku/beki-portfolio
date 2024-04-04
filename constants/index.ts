@@ -134,9 +134,9 @@ export const portfolios = [
     title: "Hotel booking Website",
     link: "#",
     images: [
-      "/hotel/home.png",
-      "/hotel/detail.png",
-      "/hotel/detail2.png",
+      "/hotel/home.jpg",
+      "/hotel/detail.jpg",
+      "/hotel/detail2.jpg",
     ],
   },
   {
@@ -144,9 +144,9 @@ export const portfolios = [
     title: "Music Player Website",
     link: "#",
     images: [
-      "/music/adminsong.png",
-      "/music/admindashboard.png",
-      "/music/artisst.png",
+      "/music/artist.jpg",
+      "/music/home.jpg",
+      "/music/song.jpg",
     ],
   },
   {
