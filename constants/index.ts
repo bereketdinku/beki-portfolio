@@ -105,9 +105,9 @@ export const portfolios = [
     title: "Restaurant Website",
     link: "#",
     images: [
-      "/restaurant/home.png",
-      "/restaurant/detail.png",
-      "/restaurant/cart.png",
+      "/restaurant/home.jpg",
+      "/restaurant/detail.jpg",
+      "/restaurant/cart.jpg",
     ],
   },
   {
