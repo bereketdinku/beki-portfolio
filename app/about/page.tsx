@@ -18,7 +18,7 @@ const page = () => {
             <p className="px-4 py-2 bg-peach-500 text-grey-600 w-max rounded tablet:w-max max-tablet:mx-auto ">
               Welcome to the world of captivating web and mobile app development
             </p>
-            <h1 className="text-grey-700">I'm Bereket Dinku</h1>
+            <h1 className="text-grey-700">I am Bereket Dinku</h1>
             <p className="text-grey-600">
               I am passionate in technology .I am always look for opportunity to
               learn and make a difference .I am interested in building software
