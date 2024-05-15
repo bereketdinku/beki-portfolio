@@ -30,7 +30,7 @@ export const skills = [
     id: 2,
     name: "Back-end Development",
     description:
-      "Proficiency in coding the backend aspects of websites using nodejs, firebase,prisma, and so on to ensure a functionality of website.",
+      "Proficiency in coding the backend aspects of websites using nodejs, firebase,prisma, and so on to ensure a functionality of website and mobile app.",
     icon: "/icons/service-1.svg",
   },
   {
