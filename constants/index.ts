@@ -37,7 +37,7 @@ export const skills = [
     id: 3,
     name: "Mobile App Development",
     description:
-      "Proficiency in coding the visual aspects of  using Flutter, React Native, tailwindcss, and so on to ensure a functionality of website.",
+      "Proficiency in coding the visual aspects of  using Flutter, React Native, tailwindcss, and so on to ensure a functionality of mobile app.",
     icon: "/icons/service-1.svg",
   },
   {
@@ -167,6 +167,16 @@ export const portfolios = [
       "/date/1.jpg",
       "/date/2.jpg",
       "/date/3.jpg",
+    ],
+  },
+  {
+    id: 8,
+    title: "Doctor Appointment Website",
+    link: "#",
+    images: [
+      "/drapp/booking.PNG",
+      "/drapp/dr-home.PNG",
+      "/drapp/drs.PNG",
     ],
   },
 ];
